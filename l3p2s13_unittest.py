@@ -3,8 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-
-
 class Test(unittest.TestCase):
     def test_reg1(self):
         link = "http://suninjuly.github.io/registration1.html"
