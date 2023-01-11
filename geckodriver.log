@@ -1,0 +1,17 @@
+1673421649963	geckodriver	INFO	Listening on 127.0.0.1:54907
+1673421650463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54908" "-foreground" "-no-remote" "-profile" "/var/folders/tw/9jr_7sqs0yz1f2kwlvggr4p80000gn/T/rust_mozprofileCBFgx2"
+2023-01-11 10:20:53.450 plugin-container[43305:4450355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-11 10:20:53.450 plugin-container[43305:4450355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673421653456	Marionette	INFO	Marionette enabled
+1673421653481	Marionette	INFO	Listening on port 54919
+2023-01-11 10:20:53.493 plugin-container[43305:4450355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-11 10:20:53.493 plugin-container[43305:4450355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-11 10:20:53.493 plugin-container[43305:4450358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-11 10:20:53.493 plugin-container[43305:4450358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:54908
+1673421653631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tw/9jr_7sqs0yz1f2kwlvggr4p80000gn/T/rust_mozprofileCBFgx2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54908/devtools/browser/fc91ed8c-ce65-4a0e-ae88-39ebcad8571c
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1672070366, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1672070366, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
